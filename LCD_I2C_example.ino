@@ -1,6 +1,6 @@
 //******************************************************************************
 //I2C demo code
-//author: Josip Prpić
+//author: Microchips Team
 //This code is open source, you can use it as you wish in any of your projects :)
 //IMPORTANT INFO:
 //   - you have to install LCD I2C library.
